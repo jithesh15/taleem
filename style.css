@@ -1,0 +1,60 @@
+nav{
+    display: flex;
+}
+.icon{
+    display: flex;
+    padding-left: 52px;w
+}
+nav div h1{
+    padding-left: 5px;
+    font-size: 26px;
+}
+div a{
+    text-decoration: none;
+    padding:31px ;
+    position: relative;
+    top: 25px;
+    left: 195px;
+    color: white;
+    
+}
+body{
+    background-color: rgb(0, 0,0);
+    background: linear-gradient(0,0,0,0.5%);
+    color: white;
+}
+.content{
+    padding: 147px 400px;
+    align-content: center;
+}
+#a{
+    padding-left:125px ;
+    position: relative;
+    top: 46px;
+    font-size: 67px;
+    
+}
+h3{
+    padding-left: 61px;
+    color: red;
+}
+#fas{
+    position: relative;
+    left: 209px;
+    top: 25px;
+    padding-left: 10px;
+}
+.fas{
+    padding: 8px;
+    border: 2px solid white;
+    border-radius: 40px;
+    font-size: 13px;
+    position: relative;
+    left: 13px;
+    top: -8px;
+    margin: -3px 10px;
+}
+div a:hover{
+    border-top: 2px solid red;
+    padding-top: 10px;
+}
